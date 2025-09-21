@@ -1,23 +1,15 @@
 export const footerSocials = [
   {
-    name: 'Twitter',
-    url: 'https://twitter.com/jaydanurwin',
-    icon: "mdi:twitter",
+    name: 'Instagram',
+    url: 'https://www.instagram.com/titanmusestudio/',
+    icon: "mdi:instagram",
   },
   {
     name: 'Youtube',
-    url: 'https://youtube.com/@jaydanurwin',
+    url: 'https://youtube.com/@TitanMuseStudio',
     icon: "mdi:youtube",
   },
-  {
-    name: 'Github',
-    url: 'https://github.com/jaydanurwin',
-    icon: "mdi:github",
-  },
-  {
-    name: 'Discord',
-    url: 'https://astro.build/chat',
-    icon: "ic:baseline-discord",
+=
   },
 ]
 
@@ -40,7 +32,7 @@ export const footerLists = [
 		],
 	},
 	{
-		title: 'Company',
+		title: 'Titan Muse Studio',
 		items: [
 			{
 				title: 'About',
@@ -52,7 +44,7 @@ export const footerLists = [
 			},
 			{
 				title: 'Contact',
-				slug: '/company/contact',
+				slug: '/Titan Muse Studio/contact',
 			},
 		],
 	},
@@ -72,7 +64,7 @@ export const footerLists = [
         slug: '/theme/theme-setup',
       },
       {
-        title: 'Customizing Odyssey',
+        title: 'Customizing Titan Muse Studio',
         slug: '/theme/customizing-odyssey',
       }
 		],
